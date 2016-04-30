@@ -1,0 +1,52 @@
+body {
+    height: 100%;
+    background-image: url("http://i.imgur.com/vF9JWO6.png?1");
+    margin: 0;
+    padding: 0;
+}
+html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+    
+div {
+    min-height: 100%;
+    width: 51.2%;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    background-color: #D7DFFF;
+}
+
+iframe.video {
+    border: double 20px #B5DEE4;
+    border-radius: 50px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    margin-top: 50px;
+}
+
+iframe.music {
+    border: double 20px #B5DEE4;
+    border-radius: 50px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    margin-top: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    float: none;
+}
+
+a img {
+    display: inline;
+    margin: 50px 15px 0;
+    height: 200px;
+    max-width: 600px;
+} 
